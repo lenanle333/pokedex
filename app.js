@@ -17,6 +17,7 @@ window.onload = async () => {
 		await fetchPokemon(i);
 	}
 	loading = false;
+	console.log("HI");
 	loadingScreen();
 	displayPokemon();
 };
