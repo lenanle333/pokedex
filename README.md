@@ -6,7 +6,7 @@ This project, built using HTML, CSS, and JavaScript, leverages the power of the 
 ### Main Page
 Landing Page             |  Pokemon Cards Display
 :-------------------------:|:-------------------------:
-![Landing Page]([PokemonWebsiteScreenshots/Landing Page.png](https://github.com/lenanle333/pokedex/blob/974d153309e32ac0adf4d4ac5a91e99dfc0271a0/PokemonWebsiteScreenshots/Landing%20Page.png)  |  ![Pokemon Cards Display](https://github.com/lenanle333/pokedex/blob/974d153309e32ac0adf4d4ac5a91e99dfc0271a0/PokemonWebsiteScreenshots/Pokemon%20Cards%20Main%20Page.png)
+![Landing Page](https://github.com/lenanle333/pokedex/blob/974d153309e32ac0adf4d4ac5a91e99dfc0271a0/PokemonWebsiteScreenshots/Landing%20Page.png)  |  ![Pokemon Cards Display](https://github.com/lenanle333/pokedex/blob/974d153309e32ac0adf4d4ac5a91e99dfc0271a0/PokemonWebsiteScreenshots/Pokemon%20Cards%20Main%20Page.png)
 
 ### Pokemon Popup Card Desktop
 Popup Card #1             |  Popup Card #2
